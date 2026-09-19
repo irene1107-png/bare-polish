@@ -1,0 +1,38 @@
+[
+  {
+    "image": "images/nail1.JPG",
+    "title": "Black Magic Violet (CatEye)",
+    "price": "Rp #",
+    "category": "cateye"
+  },
+  {
+    "image": "images/nail3.JPG",
+    "title": "3D Nail Art",
+    "price": "Rp #",
+    "category": "3d"
+  },
+  {
+    "image": "images/nail2.JPG",
+    "title": "Red color + glitter",
+    "price": "Rp #",
+    "category": "glitter"
+  },
+  {
+    "image": "images/nail4.JPG",
+    "title": "Green + glitter",
+    "price": "Rp #",
+    "category": "glitter"
+  },
+  {
+    "image": "images/nail5.JPG",
+    "title": "Black + glitter",
+    "price": "Rp #",
+    "category": "glitter"
+  },
+  {
+    "image": "images/nail6.JPG",
+    "title": "Cateye + glitter",
+    "price": "Rp #",
+    "category": "cateye"
+  }
+]
